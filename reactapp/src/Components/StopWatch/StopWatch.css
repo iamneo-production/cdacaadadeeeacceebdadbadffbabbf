@@ -1,0 +1,20 @@
+.stop-watch{
+	height: 60vh;
+	width: 40vw;
+	background-color: #ffffff;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	/* justify-content: space-between; */
+	border: 2px solid rgb(0, 179, 255);
+	border-block-start-color: rgb(15, 158, 219);
+	border-block-end-color:rgb(0, 179, 255);
+	border-top-width: 45px;
+	border-bottom-width: 45px;
+	border-radius: 25px;
+	
+}
+p{
+	font-size:3rem;
+	font-weight: bold;
+}
